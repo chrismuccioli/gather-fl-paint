@@ -1,0 +1,12 @@
+{
+  "name": "FLPaint",
+  "icon": "paint-brush",
+  "description": "A retro MS Paint-style image editor with layers, spray can, and flower stickers.",
+  "entryUrl": "http://localhost:3001",
+  "scopes": [
+    "plots:read",
+    "files:read",
+    "files:write"
+  ],
+  "version": "0.1.0"
+}
