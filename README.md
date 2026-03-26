@@ -2,6 +2,8 @@
 
 A retro MS Paint-style image editor that runs as a **Gather plugin**. Open images from your plots, draw on them with classic 90s tools, manage layers like Photoshop, stamp flower stickers everywhere, and save back to Gather.
 
+<img width="1300" height="851" alt="Screenshot 2026-03-26 at 11 07 14 AM" src="https://github.com/user-attachments/assets/8624d9a9-a67c-4f59-a36b-96fa63db7bd8" />
+
 ## Features
 
 - **Classic MS Paint tools** — Pencil, Eraser, Spray Can, Text, Line, Fill Bucket
