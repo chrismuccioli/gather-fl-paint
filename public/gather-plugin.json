@@ -2,7 +2,7 @@
   "name": "FLPaint",
   "icon": "paint-brush",
   "description": "A retro MS Paint-style image editor with layers, spray can, and flower stickers.",
-  "entryUrl": "http://localhost:3001",
+  "entryUrl": "https://flpaint.vercel.app",
   "scopes": [
     "plots:read",
     "files:read",

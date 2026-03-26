@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import type { ToolId, Point, StickerDef } from "./types";
-import type { DriveFile } from "./gather-sdk";
+import type { DriveFile } from "@gather/plugin-sdk";
 import { useCanvas } from "./hooks/useCanvas";
 import { useLayers } from "./hooks/useLayers";
 import { useGather } from "./hooks/useGather";

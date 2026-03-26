@@ -1,6 +1,6 @@
 import { useRef, useCallback, useState } from "react";
-import { GatherPlugin } from "../gather-sdk";
-import type { DriveFile, Plot } from "../gather-sdk";
+import { GatherPlugin } from "@gather/plugin-sdk";
+import type { DriveFile, Plot } from "@gather/plugin-sdk";
 
 export function useGather() {
   const sdkRef = useRef<GatherPlugin | null>(null);

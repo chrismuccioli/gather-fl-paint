@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import type { DriveFile } from "../gather-sdk";
+import type { DriveFile } from "@gather/plugin-sdk";
 
 interface ImagePickerProps {
   open: boolean;
